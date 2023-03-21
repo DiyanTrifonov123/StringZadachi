@@ -1,0 +1,8 @@
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\bin\Debug\PreobrazuvaneOtNKum10BroinaSistema.exe.config
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\bin\Debug\PreobrazuvaneOtNKum10BroinaSistema.exe
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\bin\Debug\PreobrazuvaneOtNKum10BroinaSistema.pdb
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\obj\Debug\PreobrazuvaneOtNKum10BroinaSistema.csproj.AssemblyReference.cache
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\obj\Debug\PreobrazuvaneOtNKum10BroinaSistema.csproj.SuggestedBindingRedirects.cache
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\obj\Debug\PreobrazuvaneOtNKum10BroinaSistema.csproj.CoreCompileInputs.cache
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\obj\Debug\PreobrazuvaneOtNKum10BroinaSistema.exe
+E:\Programming\String\PreobrazuvaneOtNKum10BroinaSistema\obj\Debug\PreobrazuvaneOtNKum10BroinaSistema.pdb

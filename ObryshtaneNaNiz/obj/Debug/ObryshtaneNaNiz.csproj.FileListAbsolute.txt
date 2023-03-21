@@ -1,0 +1,8 @@
+E:\Programming\String\ObryshtaneNaNiz\bin\Debug\ObryshtaneNaNiz.exe.config
+E:\Programming\String\ObryshtaneNaNiz\bin\Debug\ObryshtaneNaNiz.exe
+E:\Programming\String\ObryshtaneNaNiz\bin\Debug\ObryshtaneNaNiz.pdb
+E:\Programming\String\ObryshtaneNaNiz\obj\Debug\ObryshtaneNaNiz.csproj.AssemblyReference.cache
+E:\Programming\String\ObryshtaneNaNiz\obj\Debug\ObryshtaneNaNiz.csproj.SuggestedBindingRedirects.cache
+E:\Programming\String\ObryshtaneNaNiz\obj\Debug\ObryshtaneNaNiz.csproj.CoreCompileInputs.cache
+E:\Programming\String\ObryshtaneNaNiz\obj\Debug\ObryshtaneNaNiz.exe
+E:\Programming\String\ObryshtaneNaNiz\obj\Debug\ObryshtaneNaNiz.pdb

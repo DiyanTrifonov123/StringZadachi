@@ -1,0 +1,8 @@
+E:\Programming\String\UmnojavaneNaSimvolniKodove\bin\Debug\UmnojavaneNaSimvolniKodove.exe.config
+E:\Programming\String\UmnojavaneNaSimvolniKodove\bin\Debug\UmnojavaneNaSimvolniKodove.exe
+E:\Programming\String\UmnojavaneNaSimvolniKodove\bin\Debug\UmnojavaneNaSimvolniKodove.pdb
+E:\Programming\String\UmnojavaneNaSimvolniKodove\obj\Debug\UmnojavaneNaSimvolniKodove.csproj.AssemblyReference.cache
+E:\Programming\String\UmnojavaneNaSimvolniKodove\obj\Debug\UmnojavaneNaSimvolniKodove.csproj.SuggestedBindingRedirects.cache
+E:\Programming\String\UmnojavaneNaSimvolniKodove\obj\Debug\UmnojavaneNaSimvolniKodove.csproj.CoreCompileInputs.cache
+E:\Programming\String\UmnojavaneNaSimvolniKodove\obj\Debug\UmnojavaneNaSimvolniKodove.exe
+E:\Programming\String\UmnojavaneNaSimvolniKodove\obj\Debug\UmnojavaneNaSimvolniKodove.pdb
